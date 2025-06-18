@@ -1,0 +1,41 @@
+/* Basic styling for quiz app */
+body {
+  font-family: Arial, sans-serif; /* Font family */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
+/* Quiz container styling */
+.quiz-container {
+  width: 500px;
+  max-width: 80%; /* Responsive width */
+  background: white;
+  border-radius: 5px; /* Rounded corners */
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+/* Answer buttons grid layout */
+.btn-grid {
+  display: grid;
+  gap: 10px; /* Space between buttons */
+  margin: 20px 0; /* Vertical spacing */
+}
+
+/* Button styling */
+button {
+  padding: 10px;
+  background: #4CAF50; /* Green color */
+  color: white;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+/* Button hover effect */
+button:hover {
+  background: #45a049; /* Darker green on hover */
+}
