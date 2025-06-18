@@ -1,4 +1,12 @@
 # INTERACTIVE-QUIZ-APPLICATION
+COMPANY:CODTECH IT SOLUTION 
+NAME:BALAJI R
+INTERN ID:
+DOMAIN:FRONTEND WEB DEVELOPMENT 
+DURATION:4 WEEKS 
+MENTOR:NELLA SANTOSH 
+
+
 ## Task Description
 This project is **Task 1** of the CodTech internship program - an interactive quiz application built with HTML, CSS, and JavaScript that allows users to answer questions and receive instant feedback.
 
