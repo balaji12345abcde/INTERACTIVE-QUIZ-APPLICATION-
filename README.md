@@ -3,7 +3,7 @@
 This project is **Task 1** of the CodTech internship program - an interactive quiz application built with HTML, CSS, and JavaScript that allows users to answer questions and receive instant feedback.
 
 #output
-
+![Image](https://github.com/user-attachments/assets/6f092b90-f002-450e-98fc-df34caff3ee1)
 ## Features
 ✅ Dynamic question loading  
 ✅ Real-time scoring system  
